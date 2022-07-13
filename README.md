@@ -1,4 +1,4 @@
-#  ![6380-nyan-cat-3d](https://user-images.githubusercontent.com/99783474/177785225-9aaa037c-d058-450e-b66f-af977155423f.gif)
+#  ![6380-nyan-cat-3d](http://file3.instiz.net/data/file3/2018/09/15/1/f/8/1f878bdc888414f9f91c024bb8fed106.gif) ![6380-nyan-cat-3d_2](http://file3.instiz.net/data/file3/2018/09/15/d/1/8/d18696d5b528d5aca13589e3ba53fb38.gif)
 
 
 #
