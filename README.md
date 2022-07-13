@@ -1,4 +1,4 @@
-![6380-nyan-cat-3d_2](http://file3.instiz.net/data/file3/2018/09/15/d/1/8/d18696d5b528d5aca13589e3ba53fb38.gif)
+
 #
 # <div align="center"> **HELLO, HALLO, HOLLA 😎**    **Welcome to my page!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23EA75AB&title_bg=%23EE3F93&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=oiosu&edge_flat=false)](https://hits.seeyoufarm.com)  </div>
  
