@@ -24,6 +24,14 @@
 <img src="https://img.shields.io/badge/DB-F01414?style=for-the-badge&logo=DB&logoColor=white">  <img src="https://img.shields.io/badge/BBC-000000?style=for-the-badge&logo=BBC&logoColor=white">  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  <img src="https://img.shields.io/badge/Frontend Mentor-3F54A3?style=for-the-badge&logo=Frontend Mentor&logoColor=white">  <img src="https://img.shields.io/badge/google earth-4285F4?style=for-the-badge&logo=google earth&logoColor=white">  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 
+---
+
+## 💁‍♀️ Playlist
+
+
+
+
+
 
 
 <!--
