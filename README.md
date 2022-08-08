@@ -2,7 +2,7 @@
 
 
 
-# <div align="center"> **HELLO, HALLO, HOLLA 😎**    **Welcome to my page!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23EA75AB&title_bg=%23EE3F93&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=oiosu&edge_flat=false)](https://hits.seeyoufarm.com)  </div>
+# <div align="center"> **HELLO!, HALLO!, HOLLA! 😎**    **Welcome to my page!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23EA75AB&title_bg=%23EE3F93&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=oiosu&edge_flat=false)](https://hits.seeyoufarm.com)  </div>
  
 ![oiosu GitHub stats](https://github-readme-stats.vercel.app/api?username=oiosu&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
