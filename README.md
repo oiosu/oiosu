@@ -1,10 +1,9 @@
- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello%20World%20%F0%9F%91%8B&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/> </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=27&duration=5001&pause=1000&color=1FAAF7&center=true&multiline=true&width=1015&height=76&lines=HELLO!++HALLO!++HOLLA!++I'm+Su%F0%9F%90%8B;Welcome+to+my+page!" alt="Typing SVG" /></a>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oiosu&theme=prussian)](https://git.io/streak-stats)
 
-# <div align="center"> **HELLO!, HALLO!, HOLLA! 😎**    **Welcome to my page!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23EA75AB&title_bg=%23EE3F93&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=oiosu&edge_flat=false)](https://hits.seeyoufarm.com)  </div>
- 
-![oiosu GitHub stats](https://github-readme-stats.vercel.app/api?username=oiosu&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
