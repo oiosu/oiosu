@@ -1,4 +1,4 @@
-## 💫 Learning Front-end everything 
+## 💫 Learning
 <div align=center> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oiosu&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oiosu&theme=radical&utcOffset=8) 
