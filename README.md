@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=OIOSU&icon=4&color=6)](https://visitcount.itsvg.in)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23526DCE&title_bg=%23555555&icon=react.svg&icon_color=%23F0F268&title=BEST+FE+SU&edge_flat=false"/></a>
 
 # 💫 About Me: 
 🐇 I am currently studying front-end development.<br>🌱 I am planning and studying basic JavaScript TIL.<br>🌳 After that, we will work on converting JavaScript to TypeScript.<br>🥕 I am trying to become familiar with React while learning React clone coding.
