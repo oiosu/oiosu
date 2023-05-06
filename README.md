@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23526DCE&title_bg=%23555555&icon=react.svg&icon_color=%23F0F268&title=BEST+FE+SU&edge_flat=false"/></a>
 ![image](https://user-images.githubusercontent.com/99783474/236629563-2007c41c-85ee-4c93-9b59-075ffac7fac8.png)
 # Front-End Developer Im Su Kyung
-## 하고 싶은 일이 많은 그리고 할 수 있는 일도 많은 예비 최고의 프론트엔드 개발자 임수경 입니다. 
+## 하고 싶은 일이 많은 그리고 할 수 있는 일도 많은 예비 최고의 <br> 프론트엔드 개발자 임수경 입니다. 
 ![image](https://user-images.githubusercontent.com/99783474/236630507-28e85e70-c18a-499e-bd84-9602f625fcad.png)
 ![image](https://user-images.githubusercontent.com/99783474/236631305-9d4c61ba-0ae1-4ce5-a01d-7a2787c86b04.png)
 > ✅ 한국투자증권, 성실함으로부터 책임감을 배웠습니다.  
