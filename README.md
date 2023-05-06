@@ -55,16 +55,22 @@
 
 ### 3. 라이트닝 토크를 통해 폭넓은 개발 지식을 익히고 있습니다. 
 > AJ 스터디 동료들과 서로 배운 개발 지식과 앞으로 배우고 싶은 다양한 지식을 발표를 통해 다양한 의견과 지식을 공유하고 있습니다. 
-> (1) [자바스크립트 공부방법](https://drive.google.com/file/d/1eHpxfhvkjQ1xiqToOgvM26zSSgCZA511/view?usp=sharing)
-> (2) [새롭게 만들어보기(안내견 홈페이지 만들기 프로젝트 소개](https://drive.google.com/file/d/12QQNqPXcyCM2pJs1Sz3a6lrIdIfbWZFQ/view?usp=sharing)
-> (3) [프론트엔드 개발자에게 디자인은 얼마나 중요할까?](https://drive.google.com/file/d/18KAyaQZ8fbAbN_F4isUmflJFovTRUFkp/view?usp=sharing)
-> (4) [리액트란?](https://drive.google.com/file/d/13HkQS9l-JBgJ2XMc0E5g84Q7vwjjTzHV/view?usp=sharing)
-> (5) [AI란? 인공지능에 대해 간단하게 알아보기](https://drive.google.com/file/d/1ffADyinb6LbhNbbQXvQ941sKQxTMz6-5/view?usp=sharing)
-> (6) [모빌리티](https://drive.google.com/file/d/1Ztw0_73rrVvay2cZubS6evOc343-Wv34/view?usp=sharing)
+> * [자바스크립트 공부방법](https://drive.google.com/file/d/1eHpxfhvkjQ1xiqToOgvM26zSSgCZA511/view?usp=sharing)
+> 
+> * [새롭게 만들어보기(안내견 홈페이지 만들기 프로젝트 소개](https://drive.google.com/file/d/12QQNqPXcyCM2pJs1Sz3a6lrIdIfbWZFQ/view?usp=sharing)
+> 
+> * [프론트엔드 개발자에게 디자인은 얼마나 중요할까?](https://drive.google.com/file/d/18KAyaQZ8fbAbN_F4isUmflJFovTRUFkp/view?usp=sharing)
+> 
+> * [리액트란?](https://drive.google.com/file/d/13HkQS9l-JBgJ2XMc0E5g84Q7vwjjTzHV/view?usp=sharing)
+> 
+> * [AI란? 인공지능에 대해 간단하게 알아보기](https://drive.google.com/file/d/1ffADyinb6LbhNbbQXvQ941sKQxTMz6-5/view?usp=sharing)
+> 
+> * [모빌리티](https://drive.google.com/file/d/1Ztw0_73rrVvay2cZubS6evOc343-Wv34/view?usp=sharing)
 
 ### 4. 보다 쉽게 개발 지식을 이해하기 위해 정리 후 공유하고 있습니다. 
 > 개발지식에 대해 궁금한 점이 생길때마다  카드 형식으로 개념을 정리 및 요약한 템플릿을 제작하여 업로드 하고 있습니다.
-> @best_fe_su_
+> 
+> [@best_fe_su_](https://www.instagram.com/best_fe_su_/)
 
 ### 5. 개발자로서의 전문성을 강화하고자 노력하고 있습니다. 
 > 컴퓨터 과학(CS)에 대한 전문적인 지식을 쌓고자 2023년 정보처리 기사 자격증을 취득하는 것을 목표로 하고 있습니다.
