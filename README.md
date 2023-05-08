@@ -34,11 +34,11 @@
 # 👩‍🚀 Front-end development study activities
 > 에 프론트엔드 개발자가 되기 위한 역량을 쌓고자 무료로 학습할 수 있는 교육 프로그램을 활용하여 학습하고 Github에 기록 및 정리했습니다. 
 
-### 1. [Online Shopping Minigame](https://github.com/oiosu/online-shopping_minigame)
-### 2. [나만의 프로필 링크 만들기](https://github.com/oiosu/Su_Profile)
-### 3. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
-### 3. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
-### 3. [인스타그램 클론코딩](https://github.com/oiosu/Learn-and-Learn)
+1. [Online Shopping Minigame](https://github.com/oiosu/online-shopping_minigame)
+2. [나만의 프로필 링크 만들기](https://github.com/oiosu/Su_Profile)
+3. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
+4. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
+5. [인스타그램 클론코딩](https://github.com/oiosu/Learn-and-Learn)
 
 
 # 🛸 After, I am learning development study.
