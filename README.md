@@ -25,7 +25,7 @@
 2. [나만의 프로필 링크 만들기](https://github.com/oiosu/Su_Profile)
 3. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
 4. [나만의 동기부여 홈 화면 만들기](https://github.com/oiosu/Motivational-Homepage)
-5. [인스타그램 클론코딩](https://github.com/oiosu/Learn-and-Learn)
+
 
 
 # 🛸 After, I am learning development study.
