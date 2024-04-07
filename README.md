@@ -1,1 +1,1 @@
-## Front-End Developer Im Su Kyung
+## Front-End Developer Im Su Kyung.
