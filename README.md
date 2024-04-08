@@ -7,7 +7,7 @@
 
 ### Chapter 01. 개발 학습 기록하면서 역량 키우기 목표
 
-    🐼 개발자 도구의 중요성 (개발자 도구 사용하는 습관 가지기)
+[🐼 개발자 도구의 중요성 (개발자 도구 사용하는 습관 가지기)](https://velog.io/@bestsu/series/Chapter-01.-%EA%B0%9C%EB%B0%9C-%ED%95%99%EC%8A%B5-%EA%B8%B0%EB%A1%9D%ED%95%98%EB%A9%B4%EC%84%9C-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EB%AA%A9%ED%91%9C)
 
     🐼 웹 브라우저에 대한 이해 (feat 깊게 생각하는 습관)
 
