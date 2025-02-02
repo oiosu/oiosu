@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/b2e68779-3f91-48aa-a2bc-4dc7dab0f4c6)
 
-<div align="start">
+<div align="center">
   <h2>Take the Bull By the Horns  "소의 뿔을 잡고 맞서야 한다" </h2>
 </div>
 
