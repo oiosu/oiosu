@@ -1,9 +1,21 @@
-<h2> Hallo! I'm Su Kyung 👋 </h2>
+![image](https://github.com/user-attachments/assets/b2e68779-3f91-48aa-a2bc-4dc7dab0f4c6)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiosu&count_bg=%23BFA712&title_bg=%23423D3D&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="start">
+  <h2>Take the Bull By the Horns  "소의 뿔을 잡고 맞서야 한다" </h2>
+</div>
 
-### Languages & Tools
+소의 뿔을 직접 잡는 것은 위험하고 두려운 일이지만 용기 있게 붙잡고 통제하면 상황을 주도할 수 있는 태도를 가진,  <br/>
+어려운 문제나 도전적인 상황을 피하지 않고 적극적으로 해결하는 개발자, 임수경입니다.
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,ts,nodejs,django,mysql,styledcomponents,bootstrap,firebase)](https://skillicons.dev)
+저는 어려운 일이 닥쳤을 때 주저하지 않고 직접 해결하는 것을 선호합니다. <br/>
+혼자만의 문제가 아니라 동료들과 함께 해결해 나가는 즐거움을 중요하게 생각합니다. <br/>
+단순히 비판하기보다는 "어떻게 하면 더 나은 방향으로 나아갈 수 있을까?" 를 고민하며, <br/>
+긍정적인 방향성을 찾아가는 것이 더 가치 있다고 믿습니다. <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,notion,discord,figma,aws,gmail)](https://skillicons.dev)
+2025년, 저의 개발 목표는 "Take the Bull By the Horns"를 가진 마인드로 개발 성장을 기록하는 것입니다. <br/>
+문제를 정의하고 해결해 나가는 과정, 배운 점, 그리고 더 나은 방향을 고민하는 과정을 기록할 예정입니다. <br/>
+
+모두가 이해하기 쉬운 코드를 작성하며, 끊임없이 성장하는 개발자가 되겠습니다. 🚀
+
+---
+
